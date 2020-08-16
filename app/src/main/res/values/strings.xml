@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- Display the Question 1 textView -->
+    <string name="question1">1. Select the Rhinegeist IPA beer ?</string>
+
+    <!-- Display the Truth check box -->
+    <string name="truth">Truth</string>
+
+    <!-- Display the Cougar check box -->
+    <string name="cougar">Cougar</string>
+
+    <!-- Display the Question 2 textView -->
+    <string name="question2">2. Which of the following beers is a Rhinegeist Rose Cider?</string>
+
+    <!-- Display the Chester radio button -->
+    <string name="chester">Chester</string>
+
+    <!-- Display the Bubbles radio button -->
+    <string name="bubbles">Bubbles</string>
+
+    <!-- Display the Question 3 textView -->
+    <string name="question3">3. Which of the following beers is a Rhinegeist Imperial Mild?</string>
+
+    <!-- Display the Gramma radio button -->
+    <string name="gramma">Gramma</string>
+
+    <!-- Display the Druncle radio button -->
+    <string name="druncle">Druncle</string>
+
+    <!-- Display the Question 4 textView -->
+    <string name="question4">4. Which of the following beers is a Rhinegeist Triple IPA?</string>
+
+    <!-- Display the Stryker radio button -->
+    <string name="stryker">Stryker</string>
+
+    <!-- Display the Trips radio button -->
+    <string name="trips">Trips</string>
+
+    <!-- Display the Question 5 textView -->
+    <string name="question5">5. What city is Rhinegest brewery located?</string>
+
+    <!-- Input the Rhinegest brewery location textView -->
+    <string name="rhinegeistLocation">Input Rhinegeist Location</string>
+
+    <!-- Display the Submit Answers button -->
+    <string name="submit">Submit</string>
+
+    <!-- Display the Reset button -->
+    <string name="reset">Reset</string>
+
+    <string name="answer_text">The final score on your exam was %d</string>
+
+</resources>
